@@ -5,14 +5,14 @@ Programa con pandas y openpyxl, donde leemos archivos excel o csv convirtiendo m
 
 Para poder ejercutar este proyecto despues de colnarlo se debe hacer en la carpeta del proyecto la siguiente instruccion.
 
-'''
+```
 pip install -r requerimientos.txt
-'''
+```
 
 Una vez hecho esto, para que se conviertael excel de CM  a Pulgadas, debes seleccionar el archivo.
 
-´´´
+```
 python conversor_py
-´´´
+```
 
 
