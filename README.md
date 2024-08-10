@@ -11,8 +11,8 @@ pip install -r requerimientos.txt
 
 Una vez hecho esto, para que se conviertael excel de CM  a Pulgadas, debes seleccionar el archivo.
 
-'''
+´´´
 python conversor_py
-'''
+´´´
 
 
